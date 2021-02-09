@@ -10,6 +10,10 @@ def bubble_sort(lst: list) -> list:
     -------
     list
         A sorted list in ascending order
+    
+    References
+    ----------
+    https://en.wikipedia.org/wiki/Bubble_sort
     """
 
     for i in range(0, len(lst)):

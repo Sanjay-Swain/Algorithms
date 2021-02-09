@@ -10,6 +10,10 @@ def insertion_sort(lst: list) -> list:
     -------
     list
         A sorted list in ascending order
+    
+    References
+    ----------
+    https://en.wikipedia.org/wiki/Insertion_sort
     """
 
     for i in range(1, len(lst)):
