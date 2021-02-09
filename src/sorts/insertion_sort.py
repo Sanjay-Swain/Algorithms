@@ -1,5 +1,5 @@
 def insertion_sort(lst: list) -> list:
-    """This is a insertion sort algorithm implementation
+    """This is an insertion sort algorithm implementation
     
     Parameters
     ----------
